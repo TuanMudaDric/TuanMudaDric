@@ -1,1 +1,1 @@
-TuanMudaDric.github,io
+TuanMudaDric.github.io
